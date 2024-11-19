@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Multi.SchDoc
+Record=SheetSymbol|SourceDocument=Multi.SchDoc|Designator=U_EMI_HV_Protect|SchDesignator=U_EMI_HV_Protect|FileName=EMI_HV_Protect.SchDoc|SymbolType=Normal|RawFileName=EMI_HV_Protect.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Multi.SchDoc|Designator=U_LLC|SchDesignator=U_LLC|FileName=LLC.SchDoc|SymbolType=Normal|RawFileName=LLC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

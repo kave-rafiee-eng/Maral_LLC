@@ -1,0 +1,79 @@
+Removed Member From Class: ClassName=PP300V Member=NetCX?_1
+Removed Member From Class: ClassName=PP300V Member=NetF?_1
+Change Net Name : Old Net Name=NetCX?_1 New Net Name=AC_N
+Change Net Name : Old Net Name=NetF?_1 New Net Name=AC_L
+Added Pin To Net: NetName=NetIC?_13 Pin=IC?-13
+Added Net: Name=NetIC?_13
+Added Pin To Net: NetName=NetLLC?_8 Pin=LLC?-8
+Added Net: Name=NetLLC?_8
+Added Pin To Net: NetName=NetLLC?_9 Pin=LLC?-9
+Added Net: Name=NetLLC?_9
+Added Pin To Net: NetName=NetLLC?_10 Pin=LLC?-10
+Added Net: Name=NetLLC?_10
+Added Pin To Net: NetName=NetLLC?_11 Pin=LLC?-11
+Added Net: Name=NetLLC?_11
+Added Member To Class: ClassName=U_LLC Member=Component C? NU
+Added Member To Class: ClassName=U_LLC Member=Component C? 1uF
+Added Member To Class: ClassName=U_LLC Member=Component C? 22nF/630V - MKT
+Added Member To Class: ClassName=U_LLC Member=Component C? 4.7uF
+Added Member To Class: ClassName=U_LLC Member=Component C? 22nF/630V - MKT
+Added Member To Class: ClassName=U_LLC Member=Component C? 220pF
+Added Member To Class: ClassName=U_LLC Member=Component C? 1000uF/35V
+Added Member To Class: ClassName=U_LLC Member=Component C? 100nF
+Added Member To Class: ClassName=U_LLC Member=Component C? 100nF
+Added Member To Class: ClassName=U_LLC Member=Component C? 100uF-25V
+Added Member To Class: ClassName=U_LLC Member=Component C? 1000uF/35V
+Added Member To Class: ClassName=U_LLC Member=Component C? 10nF
+Added Member To Class: ClassName=U_LLC Member=Component C? 22nF
+Added Member To Class: ClassName=U_LLC Member=Component C? 68nF
+Added Member To Class: ClassName=U_LLC Member=Component C? 2.2nF
+Added Member To Class: ClassName=U_LLC Member=Component C? 1000uF/35V
+Added Member To Class: ClassName=U_LLC Member=Component D? DIOD/RECTIFIERS
+Added Member To Class: ClassName=U_LLC Member=Component D? 4148
+Added Member To Class: ClassName=U_LLC Member=Component D? 4148
+Added Member To Class: ClassName=U_LLC Member=Component D? 4148
+Added Member To Class: ClassName=U_LLC Member=Component D? US1M
+Added Member To Class: ClassName=U_LLC Member=Component D? 4148
+Added Member To Class: ClassName=U_LLC Member=Component Q? SVF12N650
+Added Member To Class: ClassName=U_LLC Member=Component Q? SVF12N650
+Added Member To Class: ClassName=U_LLC Member=Component R? 33K
+Added Member To Class: ClassName=U_LLC Member=Component R? 39K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 1.5K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 512R
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? NU
+Added Member To Class: ClassName=U_LLC Member=Component R? 680R
+Added Member To Class: ClassName=U_LLC Member=Component R? 1.5K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 2.2K
+Added Member To Class: ClassName=U_LLC Member=Component R? 2.2K
+Added Member To Class: ClassName=U_LLC Member=Component R? 100K
+Added Member To Class: ClassName=U_LLC Member=Component R? 100R
+Added Member To Class: ClassName=U_LLC Member=Component R? 10R
+Added Member To Class: ClassName=U_LLC Member=Component R? 150K
+Added Member To Class: ClassName=U_LLC Member=Component R? 0R/NU
+Added Member To Class: ClassName=U_LLC Member=Component R? 2.2K
+Added Member To Class: ClassName=U_LLC Member=Component R? 2.2K
+Added Member To Class: ClassName=U_LLC Member=Component R? 18K
+Added Member To Class: ClassName=U_LLC Member=Component R? 2.2K
+Added Member To Class: ClassName=U_LLC Member=Component R? 1K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 3.9K
+Added Member To Class: ClassName=U_LLC Member=Component R? 1K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10R
+Added Member To Class: ClassName=U_LLC Member=Component R? 6.2K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10R
+Added Member To Class: ClassName=U_LLC Member=Component R? 5.1K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 10K
+Added Member To Class: ClassName=U_LLC Member=Component R? 33R
+Added Member To Class: ClassName=U_LLC Member=Component R? 50R
+Added Member To Class: ClassName=U_LLC Member=Component R? 220
+Added Member To Class: ClassName=U_LLC Member=Component R? 33K
+Added Member To Class: ClassName=U_LLC Member=Component Z? TL431
+Added Member To Class: ClassName=PP300V Member=Wire AC_L
+Added Member To Class: ClassName=PP300V Member=Wire AC_N

@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=U_LLC Member=C1
+Change Component Footprint: Designator=R2 Old Footprint=RES/0.25W New Footprint=RES/1W
+Added Member To Class: ClassName=U_LLC Member=Component C7 1000uF/35V
+Added Member To Class: ClassName=U_LLC Member=Component D4 4148
+Added Member To Class: ClassName=U_LLC Member=Component R40 1.5K
+Added Member To Class: ClassName=U_LLC Member=Component Z1 18V
